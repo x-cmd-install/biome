@@ -1,0 +1,67 @@
+about:
+  description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+  license: Apache-2.0
+  homepage: https://biomejs.dev
+  head: 137d48a
+  archived: false
+  latestVersion: @biomejs/biome@2.5.12
+  collectedAt: 2026-09-04T04:29:29Z
+timeline:
+  created: 2023-07-27
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 25707
+  watcher: 100
+  fork: 1222
+  release: 158
+  contributor: 749
+  pullRequest: 826
+  issue: 3468
+language:
+  Rust: 28183857
+  JavaScript: 1981174
+  TypeScript: 1055490
+  CSS: 486571
+  SCSS: 210344
+  Vue: 206315
+  HTML: 194528
+  Svelte: 172345
+  Astro: 84756
+  Just: 12593
+  Shell: 10796
+  RenderScript: 3
+totalLine: 32598772
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 5
+    mergedPR: 180
+    openPR: 40
+    closedIssue: 56
+    openIssue: 34
+    commit: 224
+  last90d:
+    since: 2026-06-06
+    release: 14
+    mergedPR: 516
+    openPR: 73
+    closedIssue: 171
+    openIssue: 76
+    commit: 654
+  last180d:
+    since: 2026-03-08
+    release: 24
+    mergedPR: 1191
+    openPR: 98
+    closedIssue: 362
+    openIssue: 132
+    commit: 1646
+  last360d:
+    since: 2025-09-09
+    release: 52
+    mergedPR: 2102
+    openPR: 118
+    closedIssue: 871
+    openIssue: 259
+    commit: 3017
