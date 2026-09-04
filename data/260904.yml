@@ -7,7 +7,7 @@ about:
   head: a7f0c48
   archived: false
   latestVersion: @biomejs/biome@2.5.12
-  collectedAt: 2026-09-04T19:32:47Z
+  collectedAt: 2026-09-04T20:57:01Z
 timeline:
   created: 2023-07-27
   lastCommit: 2026-09-04
@@ -91,5 +91,103 @@ total:
   openIssue: 356
   commit: 10793
 ---
+path: /home/runner/.x-repo/github.com/biomejs/biome
+collectedAt: 2026-09-04T20:57:20Z
+loc:
+  Rust:
+    code: 927013
+    comments: 19792
+    blanks: 73604
+    files: 4656
+  TypeScript:
+    code: 61497
+    comments: 11504
+    blanks: 6016
+    files: 1678
+  Json:
+    code: 58859
+    comments: 0
+    blanks: 36
+    files: 1257
+  JavaScript:
+    code: 51687
+    comments: 5302
+    blanks: 8467
+    files: 2714
+  Css:
+    code: 16585
+    comments: 1068
+    blanks: 3455
+    files: 705
+  Html:
+    code: 14912
+    comments: 665
+    blanks: 1323
+    files: 536
+  Sass:
+    code: 8425
+    comments: 436
+    blanks: 1527
+    files: 448
+  Jsx:
+    code: 8418
+    comments: 823
+    blanks: 1412
+    files: 465
+  Svelte:
+    code: 5924
+    comments: 416
+    blanks: 868
+    files: 731
+  Yaml:
+    code: 4730
+    comments: 230
+    blanks: 976
+    files: 536
+  Toml:
+    code: 4222
+    comments: 98
+    blanks: 530
+    files: 111
+  Vue:
+    code: 3142
+    comments: 344
+    blanks: 447
+    files: 512
+  Graphql:
+    code: 2835
+    comments: 193
+    blanks: 994
+    files: 187
+  Tsx:
+    code: 1671
+    comments: 200
+    blanks: 329
+    files: 135
+  Sh:
+    code: 342
+    comments: 65
+    blanks: 57
+    files: 10
+  Svg:
+    code: 45
+    comments: 3
+    blanks: 1
+    files: 10
+  Markdown:
+    code: 0
+    comments: 38733
+    blanks: 19049
+    files: 1234
+  Text:
+    code: 0
+    comments: 260
+    blanks: 1
+    files: 120
+total:
+  code: 1184443
+  comments: 136920
+  blanks: 134129
+  files: 16045
 ---
 
