@@ -1,0 +1,225 @@
+about:
+  description: "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
+  license: Apache-2.0
+  homepage: https://biomejs.dev
+  head: 386d973
+  archived: false
+  latestVersion: "@biomejs/biome@2.5.12"
+  collectedAt: 2026-09-07T04:31:17Z
+timeline:
+  created: 2023-07-27
+  lastCommit: 2026-09-06
+  lastRelease: 2026-09-03
+popularity:
+  star: 25722
+  watcher: 101
+  fork: 1224
+  release: 158
+  contributor: 749
+  pullRequest: 6930
+  issue: 3473
+language:
+  Rust: 28330861
+  JavaScript: 1982335
+  TypeScript: 1057038
+  CSS: 488571
+  SCSS: 210344
+  Vue: 207335
+  HTML: 198027
+  Svelte: 173970
+  Astro: 85452
+  Just: 12593
+  Shell: 10796
+  RenderScript: 3
+totalBytes: 32757325
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 5
+    mergedPR: 185
+    openPR: 38
+    closedIssue: 59
+    openIssue: 28
+    commit: 209
+  last60d:
+    since: 2026-07-09
+    release: 9
+    mergedPR: 379
+    openPR: 62
+    closedIssue: 119
+    openIssue: 45
+    commit: 457
+  last90d:
+    since: 2026-06-09
+    release: 14
+    mergedPR: 514
+    openPR: 73
+    closedIssue: 178
+    openIssue: 74
+    commit: 631
+  last180d:
+    since: 2026-03-11
+    release: 24
+    mergedPR: 1170
+    openPR: 100
+    closedIssue: 361
+    openIssue: 130
+    commit: 1601
+  last360d:
+    since: 2025-09-12
+    release: 51
+    mergedPR: 2110
+    openPR: 120
+    closedIssue: 871
+    openIssue: 253
+    commit: 3005
+  last720d:
+    since: 2024-09-17
+    release: 92
+    mergedPR: 3867
+    openPR: 123
+    closedIssue: 1943
+    openIssue: 336
+    commit: 4157
+total:
+  release: 158
+  mergedPR: 6099
+  openPR: 123
+  closedIssue: 3113
+  openIssue: 360
+  commit: 10804
+---
+path: /home/runner/.x-repo/github.com/biomejs/biome
+collectedAt: 2026-09-07T04:32:08Z
+loc:
+  Rust:
+    code: 928205
+    comments: 19795
+    blanks: 73723
+    files: 4665
+  TypeScript:
+    code: 61543
+    comments: 11525
+    blanks: 6016
+    files: 1680
+  Json:
+    code: 59000
+    comments: 0
+    blanks: 36
+    files: 1259
+  JavaScript:
+    code: 51723
+    comments: 5304
+    blanks: 8467
+    files: 2716
+  Css:
+    code: 16762
+    comments: 1072
+    blanks: 3493
+    files: 709
+  Html:
+    code: 14922
+    comments: 667
+    blanks: 1323
+    files: 538
+  Jsx:
+    code: 8439
+    comments: 825
+    blanks: 1412
+    files: 467
+  Sass:
+    code: 8425
+    comments: 436
+    blanks: 1527
+    files: 448
+  Svelte:
+    code: 5962
+    comments: 420
+    blanks: 878
+    files: 736
+  Yaml:
+    code: 4730
+    comments: 230
+    blanks: 976
+    files: 536
+  Toml:
+    code: 4222
+    comments: 98
+    blanks: 530
+    files: 111
+  Vue:
+    code: 3158
+    comments: 346
+    blanks: 447
+    files: 514
+  Graphql:
+    code: 2835
+    comments: 193
+    blanks: 994
+    files: 187
+  Tsx:
+    code: 1671
+    comments: 200
+    blanks: 329
+    files: 135
+  Sh:
+    code: 342
+    comments: 65
+    blanks: 57
+    files: 10
+  Svg:
+    code: 45
+    comments: 3
+    blanks: 1
+    files: 10
+  Markdown:
+    code: 0
+    comments: 38759
+    blanks: 19055
+    files: 1238
+  Text:
+    code: 0
+    comments: 260
+    blanks: 1
+    files: 120
+total:
+  code: 1186166
+  comments: 137095
+  blanks: 134353
+  files: 16079
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:32:14+00:00
+  platform:
+    darwin/arm64:
+      name:  biome-darwin-arm64
+      url:   https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-darwin-arm64
+      size:  56017952
+      score: 38
+    darwin/amd64:
+      name:  biome-darwin-x64
+      url:   https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-darwin-x64
+      size:  58413368
+      score: 38
+    linux/arm64:
+      name:  biome-linux-arm64
+      url:   https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-linux-arm64
+      size:  57998768
+      score: 38
+    linux/amd64:
+      name:  biome-linux-x64-musl
+      url:   https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-linux-x64-musl
+      size:  63126512
+      score: 38
+    win/arm64:
+      name:  biome-win32-arm64.exe
+      url:   https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-win32-arm64.exe
+      size:  64262656
+      score: 38
+    win/amd64:
+      name:  biome-win32-x64.exe
+      url:   https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-win32-x64.exe
+      size:  74882048
+      score: 38
