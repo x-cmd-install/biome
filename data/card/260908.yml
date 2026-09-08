@@ -5,18 +5,22 @@ about:
   head: e7b3b95
   archived: false
   latestVersion: "@biomejs/biome@2.5.12"
-  collectedAt: 2026-09-08T04:32:12Z
+  latestRelease: "@biomejs/biome@2.5.12"
+  latestPrerelease: "@biomejs/js-api@v0.8.0-beta.3"
+  collectedAt: 2026-09-08T10:35:29Z
 timeline:
   created: 2023-07-27
   lastCommit: 2026-09-07
+  lastVersion: 2026-09-03
   lastRelease: 2026-09-03
+  lastPrerelease: 2025-06-02
 popularity:
-  star: 25736
+  star: 25739
   watcher: 101
-  fork: 1226
+  fork: 1227
   release: 158
   contributor: 750
-  pullRequest: 6943
+  pullRequest: 6945
   issue: 3475
 language:
   Rust: 28379541
@@ -37,60 +41,60 @@ recent:
     since: 2026-08-09
     release: 5
     mergedPR: 195
-    openPR: 39
-    closedIssue: 62
-    openIssue: 26
+    openPR: 40
+    closedIssue: 63
+    openIssue: 25
     commit: 221
   last60d:
     since: 2026-07-10
     release: 9
     mergedPR: 387
-    openPR: 63
-    closedIssue: 120
-    openIssue: 43
+    openPR: 64
+    closedIssue: 121
+    openIssue: 42
     commit: 469
   last90d:
     since: 2026-06-10
     release: 14
     mergedPR: 524
-    openPR: 74
-    closedIssue: 181
-    openIssue: 72
+    openPR: 75
+    closedIssue: 182
+    openIssue: 71
     commit: 643
   last180d:
     since: 2026-03-12
     release: 24
     mergedPR: 1174
-    openPR: 101
-    closedIssue: 362
-    openIssue: 129
+    openPR: 102
+    closedIssue: 363
+    openIssue: 128
     commit: 1613
   last360d:
     since: 2025-09-13
     release: 51
     mergedPR: 2121
-    openPR: 121
-    closedIssue: 876
-    openIssue: 250
+    openPR: 122
+    closedIssue: 881
+    openIssue: 245
     commit: 3017
   last720d:
     since: 2024-09-18
     release: 92
     mergedPR: 3872
-    openPR: 124
-    closedIssue: 1946
-    openIssue: 326
+    openPR: 125
+    closedIssue: 1956
+    openIssue: 316
     commit: 4159
 total:
   release: 158
   mergedPR: 6111
-  openPR: 124
-  closedIssue: 3125
-  openIssue: 350
+  openPR: 125
+  closedIssue: 3135
+  openIssue: 340
   commit: 10816
 ---
 path: /home/runner/.x-repo/github.com/biomejs/biome
-collectedAt: 2026-09-08T04:33:01Z
+collectedAt: 2026-09-08T10:36:08Z
 loc:
   Rust:
     code: 929453
@@ -190,10 +194,3 @@ total:
 ---
 
 ---
-platform	name	url	size	score
-darwin/arm64	biome-darwin-arm64	https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-darwin-arm64	56017952	38
-darwin/amd64	biome-darwin-x64	https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-darwin-x64	58413368	38
-linux/arm64	biome-linux-arm64	https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-linux-arm64	57998768	38
-linux/amd64	biome-linux-x64-musl	https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-linux-x64-musl	63126512	38
-win/arm64	biome-win32-arm64.exe	https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-win32-arm64.exe	64262656	38
-win/amd64	biome-win32-x64.exe	https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.5.12/biome-win32-x64.exe	74882048	38
