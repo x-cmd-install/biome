@@ -2,32 +2,32 @@ about:
   description: "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
   license: Apache-2.0
   homepage: https://biomejs.dev
-  head: 2b1718e
+  head: 2871f30
   archived: false
   latestVersion: "@biomejs/biome@2.5.12"
   latestRelease: "@biomejs/biome@2.5.12"
   latestPrerelease: "@biomejs/js-api@v0.8.0-beta.3"
-  collectedAt: 2026-09-09T04:44:34Z
+  collectedAt: 2026-09-09T18:42:53Z
 timeline:
   created: 2023-07-27
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-03
   lastRelease: 2026-09-03
   lastPrerelease: 2025-06-02
 popularity:
-  star: 25744
-  watcher: 94
-  fork: 1224
+  star: 25751
+  watcher: 92
+  fork: 1225
   release: 158
-  contributor: 751
-  pullRequest: 6950
-  issue: 3477
+  contributor: 752
+  pullRequest: 6968
+  issue: 3479
 language:
-  Rust: 28465583
-  JavaScript: 1987534
-  TypeScript: 1069602
-  CSS: 491850
-  SCSS: 212985
+  Rust: 28677129
+  JavaScript: 1987714
+  TypeScript: 1090970
+  CSS: 493354
+  SCSS: 216469
   Vue: 208074
   HTML: 198179
   Svelte: 174490
@@ -35,119 +35,119 @@ language:
   Just: 12593
   Shell: 10796
   RenderScript: 3
-totalBytes: 32918083
+totalBytes: 33156165
 recent:
   last30d:
     since: 2026-08-10
     release: 5
-    mergedPR: 194
-    openPR: 36
-    closedIssue: 63
-    openIssue: 23
-    commit: 229
+    mergedPR: 215
+    openPR: 32
+    closedIssue: 67
+    openIssue: 21
+    commit: 249
   last60d:
     since: 2026-07-11
     release: 9
-    mergedPR: 393
-    openPR: 61
-    closedIssue: 124
-    openIssue: 41
-    commit: 477
+    mergedPR: 414
+    openPR: 57
+    closedIssue: 128
+    openIssue: 39
+    commit: 497
   last90d:
     since: 2026-06-11
     release: 14
-    mergedPR: 529
-    openPR: 72
-    closedIssue: 185
-    openIssue: 69
-    commit: 651
+    mergedPR: 550
+    openPR: 68
+    closedIssue: 189
+    openIssue: 67
+    commit: 671
   last180d:
     since: 2026-03-13
     release: 24
-    mergedPR: 1174
-    openPR: 99
-    closedIssue: 362
-    openIssue: 126
-    commit: 1621
+    mergedPR: 1195
+    openPR: 95
+    closedIssue: 366
+    openIssue: 124
+    commit: 1641
   last360d:
     since: 2025-09-14
     release: 51
-    mergedPR: 2126
-    openPR: 119
-    closedIssue: 882
-    openIssue: 243
-    commit: 3025
+    mergedPR: 2147
+    openPR: 115
+    closedIssue: 886
+    openIssue: 241
+    commit: 3045
   last720d:
     since: 2024-09-19
     release: 92
-    mergedPR: 3863
-    openPR: 122
-    closedIssue: 1959
-    openIssue: 310
-    commit: 4159
+    mergedPR: 3884
+    openPR: 118
+    closedIssue: 1963
+    openIssue: 308
+    commit: 4180
 total:
   release: 158
-  mergedPR: 6118
-  openPR: 122
-  closedIssue: 3143
-  openIssue: 334
-  commit: 10823
+  mergedPR: 6139
+  openPR: 118
+  closedIssue: 3147
+  openIssue: 332
+  commit: 10844
 ---
 path: /home/runner/.x-repo/github.com/biomejs/biome
-collectedAt: 2026-09-09T04:45:11Z
+collectedAt: 2026-09-09T18:43:38Z
 loc:
   Rust:
-    code: 931743
-    comments: 19812
-    blanks: 73926
-    files: 4674
+    code: 1024472
+    comments: 19831
+    blanks: 74137
+    files: 4684
   TypeScript:
-    code: 62096
-    comments: 11576
-    blanks: 6068
-    files: 1689
+    code: 64774
+    comments: 12360
+    blanks: 6142
+    files: 1710
   Json:
-    code: 59092
+    code: 59107
     comments: 0
     blanks: 36
-    files: 1263
+    files: 1266
   JavaScript:
     code: 51848
     comments: 5316
     blanks: 8485
     files: 2719
   Css:
-    code: 16816
-    comments: 1073
-    blanks: 3507
-    files: 716
+    code: 16860
+    comments: 1076
+    blanks: 3508
+    files: 723
   Html:
     code: 14926
     comments: 668
     blanks: 1322
     files: 538
   Sass:
-    code: 8491
+    code: 8582
     comments: 440
-    blanks: 1544
-    files: 455
+    blanks: 1559
+    files: 464
   Jsx:
-    code: 8449
-    comments: 826
-    blanks: 1413
-    files: 468
+    code: 8453
+    comments: 827
+    blanks: 1414
+    files: 469
   Svelte:
     code: 5972
     comments: 426
     blanks: 879
     files: 738
   Yaml:
-    code: 4900
-    comments: 230
-    blanks: 1018
+    code: 4701
+    comments: 231
+    blanks: 948
     files: 536
   Toml:
-    code: 4222
+    code: 4228
     comments: 98
     blanks: 530
     files: 111
@@ -162,10 +162,10 @@ loc:
     blanks: 997
     files: 188
   Tsx:
-    code: 1679
-    comments: 201
-    blanks: 330
-    files: 136
+    code: 1700
+    comments: 204
+    blanks: 336
+    files: 138
   Sh:
     code: 342
     comments: 65
@@ -187,10 +187,10 @@ loc:
     blanks: 1
     files: 121
 total:
-  code: 1190818
-  comments: 137317
-  blanks: 134730
-  files: 16126
+  code: 1286207
+  comments: 138180
+  blanks: 134970
+  files: 16179
 ---
 
 ---
