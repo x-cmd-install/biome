@@ -4,7 +4,7 @@
 
 A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 
-![biome](https://repo.x-cmd.io/biome.svg)
+![biome](https://repo.x-cmd.io/biome.svg?lang=zh)
 
 ## 安装
 
@@ -20,38 +20,50 @@ x install biome
 
 ## 发布
 
-- **最新版本**: `@biomejs/biome@2.5.12` (2026-09-03)
-- **最近提交**: 2026-09-09
+- **最新版本**: `@biomejs/biome@2.5.13` (2026-09-10)
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 8 个
-- **发布时间**: 2026-09-03T07:25:43Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-darwin-arm64) | 53.7 MiB | `native/darwin/arm64` |
+| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-darwin-x64) | 56.1 MiB | `native/darwin/x64` |
+| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-linux-arm64) | 55.6 MiB | `native/linux/arm64` |
+| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-linux-arm64-musl) | 52.7 MiB | `native/linux/arm64/musl` |
+| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-linux-x64) | 61.1 MiB | `other` |
+| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-linux-x64-musl) | 60.6 MiB | `other` |
+| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-win32-arm64.exe) | 61.7 MiB | `native/win/arm64` |
+| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.5.13/biome-win32-x64.exe) | 71.8 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 25,752 · **Fork**: 1,226 · **开放 issue**: 3,482 · **贡献者**: 752
+- **Star**: 25,756 · **Fork**: 1,228 · **开放 issue**: 3,485 · **贡献者**: 753
 
 ## 累计统计
 
-- **发布数**: 158 · **已合并 PR**: 6142 · **开放 PR**: 120 · **已关闭 issue**: 3150 · **开放 issue**: 332 · **提交数**: 10847
+- **发布数**: 159 · **已合并 PR**: 6151 · **开放 PR**: 121 · **已关闭 issue**: 3164 · **开放 issue**: 321 · **提交数**: 10856
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 5 | 216 | 33 | 65 | 21 | 252 |
-| 90d | 2026-06-12 | 14 | 549 | 69 | 190 | 64 | 674 |
-| 360d | 2025-09-15 | 51 | 2140 | 117 | 889 | 241 | 3048 |
+| 30d | 2026-08-11 | 6 | 224 | 35 | 66 | 23 | 263 |
+| 90d | 2026-06-12 | 15 | 557 | 71 | 191 | 66 | 685 |
+| 360d | 2025-09-15 | 52 | 2149 | 118 | 900 | 233 | 3059 |
 
 ## 代码规模
 
-合计: **1,272,268** 行代码（覆盖前 5 种语言、共 **11107** 个文件）。
+合计: **1,274,130** 行代码（覆盖前 5 种语言、共 **11157** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,024,650 | 19,832 | 74,146 | 4685 |
-| TypeScript | 64,774 | 12,360 | 6,142 | 1710 |
-| Json | 59,107 | 0 | 36 | 1266 |
-| JavaScript | 51,848 | 5,316 | 8,485 | 2719 |
-| Css | 16,891 | 1,076 | 3,508 | 727 |
+| Rust | 1,025,618 | 19,839 | 74,212 | 4692 |
+| TypeScript | 64,902 | 12,396 | 6,153 | 1722 |
+| Json | 59,415 | 0 | 36 | 1280 |
+| JavaScript | 52,073 | 5,335 | 8,521 | 2734 |
+| Css | 16,899 | 1,076 | 3,508 | 729 |
 
 ## 改进这些数据
 
@@ -62,4 +74,4 @@ biome 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:10:33Z._
