@@ -2,12 +2,12 @@ about:
   description: "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
   license: Apache-2.0
   homepage: https://biomejs.dev
-  head: f05a3c3
+  head: a9a5e9a
   archived: false
   latestVersion: "@biomejs/biome@2.5.13"
   latestRelease: "@biomejs/biome@2.5.13"
   latestPrerelease: "@biomejs/js-api@v0.8.0-beta.3"
-  collectedAt: 2026-09-10T16:09:20Z
+  collectedAt: 2026-09-10T21:17:31Z
 timeline:
   created: 2023-07-27
   lastCommit: 2026-09-10
@@ -17,15 +17,15 @@ timeline:
 popularity:
   star: 25756
   watcher: 92
-  fork: 1228
+  fork: 1229
   release: 159
-  contributor: 753
-  pullRequest: 6983
-  issue: 3485
+  contributor: 754
+  pullRequest: 6988
+  issue: 3486
 language:
-  Rust: 28725088
-  JavaScript: 1996662
-  TypeScript: 1095182
+  Rust: 28731054
+  JavaScript: 1999638
+  TypeScript: 1095286
   CSS: 495645
   SCSS: 220906
   Vue: 208362
@@ -35,87 +35,87 @@ language:
   Just: 12593
   Shell: 10796
   RenderScript: 3
-totalBytes: 33226599
+totalBytes: 33235645
 recent:
   last30d:
     since: 2026-08-11
     release: 6
-    mergedPR: 224
-    openPR: 35
-    closedIssue: 66
+    mergedPR: 227
+    openPR: 37
+    closedIssue: 67
     openIssue: 23
-    commit: 263
+    commit: 266
   last60d:
     since: 2026-07-12
     release: 10
-    mergedPR: 422
-    openPR: 61
-    closedIssue: 130
+    mergedPR: 425
+    openPR: 63
+    closedIssue: 131
     openIssue: 41
-    commit: 511
+    commit: 514
   last90d:
     since: 2026-06-12
     release: 15
-    mergedPR: 557
-    openPR: 71
-    closedIssue: 191
+    mergedPR: 560
+    openPR: 73
+    closedIssue: 192
     openIssue: 66
-    commit: 685
+    commit: 688
   last180d:
     since: 2026-03-14
     release: 24
-    mergedPR: 1205
-    openPR: 99
-    closedIssue: 366
+    mergedPR: 1208
+    openPR: 101
+    closedIssue: 367
     openIssue: 126
-    commit: 1655
+    commit: 1658
   last360d:
     since: 2025-09-15
     release: 52
-    mergedPR: 2149
-    openPR: 118
-    closedIssue: 900
-    openIssue: 233
-    commit: 3059
+    mergedPR: 2152
+    openPR: 120
+    closedIssue: 902
+    openIssue: 232
+    commit: 3062
   last720d:
     since: 2024-09-20
     release: 92
-    mergedPR: 3887
-    openPR: 121
-    closedIssue: 1977
-    openIssue: 297
-    commit: 4178
+    mergedPR: 3890
+    openPR: 123
+    closedIssue: 1979
+    openIssue: 296
+    commit: 4181
 total:
   release: 159
-  mergedPR: 6151
-  openPR: 121
-  closedIssue: 3164
-  openIssue: 321
-  commit: 10856
+  mergedPR: 6154
+  openPR: 123
+  closedIssue: 3166
+  openIssue: 320
+  commit: 10859
 ---
 path: /home/runner/.x-repo/github.com/biomejs/biome
-collectedAt: 2026-09-10T16:10:09Z
+collectedAt: 2026-09-10T21:18:17Z
 loc:
   Rust:
-    code: 1025618
-    comments: 19839
-    blanks: 74212
+    code: 1025746
+    comments: 19841
+    blanks: 74222
     files: 4692
   TypeScript:
-    code: 64902
+    code: 64908
     comments: 12396
     blanks: 6153
-    files: 1722
+    files: 1723
   Json:
-    code: 59415
+    code: 59440
     comments: 0
     blanks: 36
-    files: 1280
+    files: 1284
   JavaScript:
-    code: 52073
-    comments: 5335
-    blanks: 8521
-    files: 2734
+    code: 52172
+    comments: 5360
+    blanks: 8541
+    files: 2738
   Css:
     code: 16899
     comments: 1076
@@ -132,10 +132,10 @@ loc:
     blanks: 1562
     files: 473
   Jsx:
-    code: 8540
-    comments: 835
-    blanks: 1414
-    files: 475
+    code: 8590
+    comments: 841
+    blanks: 1415
+    files: 480
   Svelte:
     code: 5981
     comments: 428
@@ -187,10 +187,10 @@ loc:
     blanks: 1
     files: 121
 total:
-  code: 1288373
-  comments: 138534
-  blanks: 135220
-  files: 16260
+  code: 1288681
+  comments: 138571
+  blanks: 135252
+  files: 16274
 ---
 
 ---

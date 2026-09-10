@@ -1,0 +1,200 @@
+- repo: alpine_edge
+  subrepo: testing
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.3.13
+  origversion: 2.3.13-r0
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - matthias@ahouansou.cz
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.5.12
+  origversion: 2.5.12-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: chocolatey
+  binname: biome
+  visiblename: Biome
+  version: 1.5.75
+  origversion: null
+  status: outdated
+  summary: A community distro of Chef Habitat Application Automation.
+- repo: homebrew
+  srcname: biome
+  visiblename: biome
+  version: 2.5.13
+  origversion: null
+  status: newest
+  summary: Toolchain of the web
+- repo: homebrew
+  srcname: biome
+  visiblename: biome
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Toolchain of the web
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.5.12
+  origversion: 2.5.12-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.5.12
+  origversion: 2.5.12-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.5.12
+  origversion: 2.5.12-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: biome
+  visiblename: biome
+  version: 1.7.3
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: biome
+  visiblename: biome
+  version: 1.9.4
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - figsoda@pm.me
+    - isabel@isabelroses.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: biome
+  visiblename: biome
+  version: 1.9.4
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - figsoda@pm.me
+    - isabel@isabelroses.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: biome
+  visiblename: biome
+  version: 2.3.6
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - isabel@isabelroses.com
+    - me@wrb.bz
+    - eveeg1971@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: biome
+  visiblename: biome
+  version: 2.4.15
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - isabel@isabelroses.com
+    - me@wrb.bz
+    - eveeg1971@gmail.com
+    - schahin@rouhanizadeh.de
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: biome
+  visiblename: biome
+  version: 2.5.11
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - isabel@isabelroses.com
+    - me@wrb.bz
+    - open-source@eveeifyeve.dev
+    - schahin@rouhanizadeh.de
+  licenses:
+    - MIT
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: biome
+  binnames:
+    - biome
+    - biome-debuginfo
+    - biome-debugsource
+  visiblename: biome
+  version: 2.5.0
+  origversion: 2.5.0-1.4
+  status: outdated
+  summary: A JavaScript and TypeScript toolchain
+  licenses:
+    - Apache-2.0 AND MIT
+  categories:
+    - Productivity/Other
+- repo: parabola
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.5.12
+  origversion: 2.5.12-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: biome
+  visiblename: biome
+  version: 2.5.13
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: tur
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 1.9.4
+  origversion: null
+  status: outdated
+  summary: A toolchain for web projects with a formatter and linter, usable via CLI and LSP
+  maintainers:
+    - gebleksengek@github
