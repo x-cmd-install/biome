@@ -16,9 +16,9 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.5.12
-  origversion: 2.5.12-1
-  status: outdated
+  version: 2.5.13
+  origversion: 2.5.13-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
