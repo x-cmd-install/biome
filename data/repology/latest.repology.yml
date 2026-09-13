@@ -1,3 +1,22 @@
+- repo: tur
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 1.9.4
+  origversion: null
+  status: outdated
+  summary: A toolchain for web projects with a formatter and linter, usable via CLI and LSP
+  maintainers:
+    - gebleksengek@github
+- repo: scoop
+  subrepo: main
+  binname: biome
+  visiblename: biome
+  version: 2.5.13
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: biome
@@ -70,9 +89,9 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.5.12
-  origversion: 2.5.12-1
-  status: outdated
+  version: 2.5.13
+  origversion: 2.5.13-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -179,22 +198,3 @@
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
-- repo: scoop
-  subrepo: main
-  binname: biome
-  visiblename: biome
-  version: 2.5.13
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: tur
-  srcname: biome
-  binname: biome
-  visiblename: biome
-  version: 1.9.4
-  origversion: null
-  status: outdated
-  summary: A toolchain for web projects with a formatter and linter, usable via CLI and LSP
-  maintainers:
-    - gebleksengek@github
