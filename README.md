@@ -14,15 +14,15 @@ x install biome
 
 ## Code insight
 
-Total: **1,367,758** lines of code across **12052** files in the top 5 languages.
+Total: **1,369,986** lines of code across **12063** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,056,083 | 20,511 | 79,372 | 4939 |
-| TypeScript | 113,110 | 14,955 | 6,913 | 1913 |
-| Json | 64,525 | 0 | 36 | 1446 |
+| Rust | 1,057,700 | 20,529 | 79,510 | 4945 |
+| TypeScript | 113,130 | 14,963 | 6,913 | 1913 |
+| Json | 64,577 | 0 | 36 | 1446 |
 | JavaScript | 56,383 | 5,668 | 9,001 | 2932 |
-| Css | 17,724 | 1,095 | 3,622 | 822 |
+| Css | 17,778 | 1,095 | 3,626 | 827 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,367,758** lines of code across **12052** files in the top 5 languages
 ## Release
 
 - **Latest**: `@biomejs/biome@2.5.15` (2026-09-30)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 25,948 · **Forks**: 1,292 · **Open issues**: 3,601 · **Contributors**: 774
+- **Stars**: 25,954 · **Forks**: 1,294 · **Open issues**: 3,608 · **Contributors**: 775
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 6515 · **Open PRs**: 168 · **Closed issues**: 3328 · **Open issues**: 273 · **Commits**: 11275
+- **Releases**: 161 · **Merged PRs**: 6530 · **Open PRs**: 169 · **Closed issues**: 3333 · **Open issues**: 275 · **Commits**: 11290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 290 | 87 | 64 | 40 | 338 |
-| last60d | 2026-08-15 | 7 | 558 | 100 | 135 | 55 | 672 |
-| 90d | 2026-07-16 | 11 | 759 | 118 | 205 | 71 | 966 |
-| last180d | 2026-04-17 | 21 | 1268 | 144 | 381 | 126 | 1679 |
-| 360d | 2025-10-19 | 52 | 2406 | 162 | 955 | 194 | 3338 |
-| last720d | 2024-10-24 | 90 | 4067 | 168 | 2012 | 253 | 4415 |
+| 30d | 2026-09-15 | 2 | 292 | 87 | 66 | 44 | 354 |
+| last60d | 2026-08-16 | 7 | 568 | 101 | 136 | 57 | 688 |
+| 90d | 2026-07-17 | 11 | 767 | 119 | 207 | 74 | 982 |
+| last180d | 2026-04-18 | 21 | 1277 | 145 | 380 | 129 | 1695 |
+| 360d | 2025-10-20 | 52 | 2414 | 163 | 952 | 195 | 3354 |
+| last720d | 2024-10-25 | 90 | 4077 | 169 | 2012 | 255 | 4429 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for biome lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:00:32Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:30:43Z._
