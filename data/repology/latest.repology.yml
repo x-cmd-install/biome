@@ -17,9 +17,9 @@
     - biome
     - biome-debuginfo
   visiblename: biome
-  version: 2.5.15
-  origversion: 2.5.15-alt1
-  status: outdated
+  version: 2.6.3
+  origversion: 2.6.3-alt1
+  status: newest
   summary: A fast formatter, linter and analyzer for web projects
   maintainers:
     - amakeenk@altlinux.org
@@ -32,8 +32,8 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.2
-  origversion: 2.6.2-1
+  version: 2.6.3
+  origversion: 2.6.3-1
   status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
@@ -48,7 +48,7 @@
 - repo: homebrew
   srcname: biome
   visiblename: biome
-  version: 2.6.2
+  version: 2.6.3
   origversion: null
   status: newest
   summary: Toolchain of the web
@@ -88,7 +88,7 @@
   visiblename: biome
   version: 2.6.2
   origversion: 2.6.2-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -189,8 +189,8 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.2
-  origversion: 2.6.2-1
+  version: 2.6.3
+  origversion: 2.6.3-1
   status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
@@ -199,7 +199,7 @@
   subrepo: main
   binname: biome
   visiblename: biome
-  version: 2.6.2
+  version: 2.6.3
   origversion: null
   status: newest
   licenses:
