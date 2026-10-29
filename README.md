@@ -14,15 +14,15 @@ x install biome
 
 ## Code insight
 
-Total: **1,408,816** lines of code across **12478** files in the top 5 languages.
+Total: **1,415,371** lines of code across **12508** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,084,420 | 20,914 | 81,112 | 5091 |
-| TypeScript | 114,926 | 15,371 | 7,156 | 1982 |
-| Json | 66,860 | 0 | 36 | 1506 |
-| JavaScript | 60,781 | 5,931 | 9,569 | 3037 |
-| Css | 18,875 | 1,146 | 3,784 | 862 |
+| Rust | 1,090,286 | 21,117 | 81,859 | 5107 |
+| TypeScript | 114,970 | 15,392 | 7,156 | 1983 |
+| Json | 67,073 | 0 | 36 | 1511 |
+| JavaScript | 60,840 | 5,937 | 9,577 | 3041 |
+| Css | 19,070 | 1,151 | 3,822 | 866 |
 
 ## Source
 
@@ -32,50 +32,50 @@ Total: **1,408,816** lines of code across **12478** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `@biomejs/biome@2.6.3` (2026-10-24)
-- **Last commit**: 2026-10-28
+- **Latest**: `@biomejs/biome@2.6.4` (2026-10-28)
+- **Last commit**: 2026-10-29
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 26,016 · **Forks**: 1,298 · **Open issues**: 3,674 · **Contributors**: 783
+- **Stars**: 26,016 · **Forks**: 1,298 · **Open issues**: 3,678 · **Contributors**: 783
 
 ## Totals (cumulative)
 
-- **Releases**: 164 · **Merged PRs**: 6708 · **Open PRs**: 248 · **Closed issues**: 3376 · **Open issues**: 298 · **Commits**: 11469
+- **Releases**: 165 · **Merged PRs**: 6721 · **Open PRs**: 237 · **Closed issues**: 3387 · **Open issues**: 291 · **Commits**: 11482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 4 | 360 | 163 | 63 | 54 | 413 |
-| last60d | 2026-08-29 | 7 | 646 | 177 | 139 | 79 | 754 |
-| 90d | 2026-07-30 | 12 | 852 | 196 | 219 | 96 | 1035 |
-| last180d | 2026-05-01 | 23 | 1351 | 222 | 397 | 146 | 1713 |
-| 360d | 2025-11-02 | 50 | 2540 | 242 | 931 | 218 | 3468 |
-| last720d | 2024-11-07 | 90 | 4193 | 248 | 2029 | 278 | 4550 |
+| 30d | 2026-09-29 | 5 | 355 | 152 | 65 | 52 | 429 |
+| last60d | 2026-08-30 | 8 | 652 | 167 | 144 | 77 | 770 |
+| 90d | 2026-07-31 | 13 | 856 | 185 | 223 | 94 | 1051 |
+| last180d | 2026-05-02 | 23 | 1353 | 211 | 401 | 145 | 1729 |
+| 360d | 2025-11-03 | 51 | 2533 | 231 | 928 | 217 | 3484 |
+| last720d | 2024-11-08 | 91 | 4205 | 237 | 2032 | 276 | 4562 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-darwin-arm64) | 72.6 MiB | `native/darwin/arm64` |
-| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-darwin-x64) | 76.0 MiB | `native/darwin/x64` |
-| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-linux-arm64) | 75.3 MiB | `native/linux/arm64` |
-| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-linux-arm64-musl) | 71.1 MiB | `native/linux/arm64/musl` |
-| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-linux-x64) | 82.7 MiB | `other` |
-| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-linux-x64-musl) | 82.1 MiB | `other` |
-| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-win32-arm64.exe) | 84.1 MiB | `native/win/arm64` |
-| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.3/biome-win32-x64.exe) | 97.7 MiB | `native/win/x64` |
+| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-darwin-arm64) | 73.9 MiB | `native/darwin/arm64` |
+| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-darwin-x64) | 77.3 MiB | `native/darwin/x64` |
+| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-arm64) | 76.6 MiB | `native/linux/arm64` |
+| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-arm64-musl) | 72.3 MiB | `native/linux/arm64/musl` |
+| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-x64) | 84.1 MiB | `other` |
+| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-x64-musl) | 84.3 MiB | `other` |
+| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-win32-arm64.exe) | 85.6 MiB | `native/win/arm64` |
+| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-win32-x64.exe) | 99.3 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/biome). **5** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/biome). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2.6.3` | ✅ latest |
-| Homebrew | `2.6.3` | ✅ latest |
+| Arch | `2.6.3` | ⚠️ outdated |
+| Homebrew | `2.6.3` | ⚠️ outdated |
 | Nix unstable | `2.5.15` | ⚠️ outdated |
 | Alpine edge | `2.3.13` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.5.0` | ⚠️ outdated |
@@ -89,4 +89,4 @@ Install metadata for biome lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T05:34:30Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T05:47:11Z._
