@@ -1,3 +1,14 @@
+- repo: nix_stable_24_05
+  srcname: biome
+  visiblename: biome
+  version: 1.7.3
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - figsoda@pm.me
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: biome
@@ -19,7 +30,7 @@
   visiblename: biome
   version: 2.6.3
   origversion: 2.6.3-alt1
-  status: newest
+  status: outdated
   summary: A fast formatter, linter and analyzer for web projects
   maintainers:
     - amakeenk@altlinux.org
@@ -34,7 +45,7 @@
   visiblename: biome
   version: 2.6.3
   origversion: 2.6.3-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -50,7 +61,7 @@
   visiblename: biome
   version: 2.6.3
   origversion: null
-  status: newest
+  status: outdated
   summary: Toolchain of the web
 - repo: homebrew
   srcname: biome
@@ -90,17 +101,6 @@
   origversion: 2.6.2-1
   status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: biome
-  visiblename: biome
-  version: 1.7.3
-  origversion: null
-  status: outdated
-  summary: Toolchain of the web
-  maintainers:
-    - figsoda@pm.me
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -191,7 +191,7 @@
   visiblename: biome
   version: 2.6.3
   origversion: 2.6.3-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -199,7 +199,7 @@
   subrepo: main
   binname: biome
   visiblename: biome
-  version: 2.6.3
+  version: 2.6.4
   origversion: null
   status: newest
   licenses:
