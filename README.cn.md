@@ -14,12 +14,12 @@ x install biome
 
 ## 代码洞察
 
-合计: **1,454,906** 行代码（覆盖前 5 种语言、共 **13022** 个文件）。
+合计: **1,455,927** 行代码（覆盖前 5 种语言、共 **13028** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 1,117,151 | 21,315 | 83,872 | 5299 |
-| TypeScript | 117,600 | 16,335 | 7,429 | 2046 |
+| Rust | 1,118,111 | 21,321 | 83,856 | 5299 |
+| TypeScript | 117,661 | 16,340 | 7,441 | 2052 |
 | Json | 70,963 | 0 | 36 | 1601 |
 | JavaScript | 64,477 | 6,256 | 10,097 | 3199 |
 | Css | 19,429 | 1,170 | 3,852 | 877 |
@@ -32,50 +32,50 @@ x install biome
 
 ## 发布
 
-- **最新版本**: `@biomejs/biome@2.6.4` (2026-10-28)
-- **最近提交**: 2026-11-04
+- **最新版本**: `@biomejs/biome@2.6.5` (2026-11-04)
+- **最近提交**: 2026-11-05
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 26,047 · **Fork**: 1,315 · **开放 issue**: 3,714 · **贡献者**: 786
+- **Star**: 26,051 · **Fork**: 1,321 · **开放 issue**: 3,717 · **贡献者**: 786
 
 ## 累计统计
 
-- **发布数**: 165 · **已合并 PR**: 6854 · **开放 PR**: 226 · **已关闭 issue**: 3431 · **开放 issue**: 283 · **提交数**: 11608
+- **发布数**: 166 · **已合并 PR**: 6859 · **开放 PR**: 245 · **已关闭 issue**: 3433 · **开放 issue**: 284 · **提交数**: 11613
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 402 | 134 | 84 | 55 | 475 |
-| last60d | 2026-09-05 | 7 | 735 | 154 | 160 | 85 | 856 |
-| 90d | 2026-08-06 | 12 | 932 | 167 | 235 | 97 | 1125 |
-| last180d | 2026-05-08 | 23 | 1435 | 198 | 403 | 146 | 1793 |
-| 360d | 2025-11-09 | 49 | 2638 | 220 | 932 | 217 | 3565 |
-| last720d | 2024-11-14 | 91 | 4304 | 226 | 2062 | 269 | 4665 |
+| 30d | 2026-10-06 | 5 | 393 | 152 | 83 | 56 | 481 |
+| last60d | 2026-09-06 | 8 | 730 | 171 | 158 | 85 | 862 |
+| 90d | 2026-08-07 | 13 | 931 | 184 | 236 | 97 | 1131 |
+| last180d | 2026-05-09 | 24 | 1436 | 217 | 403 | 147 | 1799 |
+| 360d | 2025-11-10 | 50 | 2631 | 238 | 931 | 216 | 3571 |
+| last720d | 2024-11-15 | 92 | 4305 | 245 | 2062 | 270 | 4663 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-darwin-arm64) | 73.9 MiB | `native/darwin/arm64` |
-| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-darwin-x64) | 77.3 MiB | `native/darwin/x64` |
-| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-arm64) | 76.6 MiB | `native/linux/arm64` |
-| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-arm64-musl) | 72.3 MiB | `native/linux/arm64/musl` |
-| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-x64) | 84.1 MiB | `other` |
-| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-linux-x64-musl) | 84.3 MiB | `other` |
-| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-win32-arm64.exe) | 85.6 MiB | `native/win/arm64` |
-| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.4/biome-win32-x64.exe) | 99.3 MiB | `native/win/x64` |
+| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-darwin-arm64) | 80.6 MiB | `native/darwin/arm64` |
+| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-darwin-x64) | 84.0 MiB | `native/darwin/x64` |
+| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-arm64) | 83.6 MiB | `native/linux/arm64` |
+| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-arm64-musl) | 78.7 MiB | `native/linux/arm64/musl` |
+| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-x64) | 91.8 MiB | `other` |
+| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-x64-musl) | 92.0 MiB | `other` |
+| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-win32-arm64.exe) | 93.5 MiB | `native/win/arm64` |
+| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-win32-x64.exe) | 108.6 MiB | `native/win/x64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/biome) 上共有 **17** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**11** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/biome) 上共有 **17** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `2.6.4` | ✅ latest |
-| Homebrew | `2.6.4` | ✅ latest |
+| Arch | `2.6.5` | ✅ latest |
+| Homebrew | `2.6.4` | ⚠️ outdated |
 | Nix unstable | `2.5.15` | ⚠️ outdated |
 | Alpine edge | `2.3.13` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.5.0` | ⚠️ outdated |
@@ -89,4 +89,4 @@ biome 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:16:34Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T06:38:03Z._
