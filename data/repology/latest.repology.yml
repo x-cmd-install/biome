@@ -48,9 +48,9 @@
 - repo: homebrew
   srcname: biome
   visiblename: biome
-  version: 2.6.4
+  version: 2.6.5
   origversion: null
-  status: outdated
+  status: newest
   summary: Toolchain of the web
 - repo: homebrew
   srcname: biome
@@ -135,7 +135,7 @@
 - repo: nix_unstable
   srcname: biome
   visiblename: biome
-  version: 2.5.15
+  version: 2.6.4
   origversion: null
   status: outdated
   summary: Toolchain of the web
@@ -167,9 +167,9 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.4
-  origversion: 2.6.4-1
-  status: outdated
+  version: 2.6.5
+  origversion: 2.6.5-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
