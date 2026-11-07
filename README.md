@@ -14,15 +14,15 @@ x install biome
 
 ## Code insight
 
-Total: **1,458,756** lines of code across **13040** files in the top 5 languages.
+Total: **1,463,486** lines of code across **13127** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,120,914 | 21,352 | 83,992 | 5311 |
-| TypeScript | 117,661 | 16,340 | 7,441 | 2052 |
-| Json | 70,963 | 0 | 36 | 1601 |
-| JavaScript | 64,477 | 6,256 | 10,097 | 3199 |
-| Css | 19,430 | 1,170 | 3,852 | 877 |
+| Rust | 1,124,080 | 21,396 | 84,238 | 5338 |
+| TypeScript | 117,850 | 16,408 | 7,441 | 2065 |
+| Json | 71,351 | 0 | 36 | 1617 |
+| JavaScript | 65,377 | 6,305 | 10,139 | 3230 |
+| Css | 19,436 | 1,170 | 3,854 | 877 |
 
 ## Source
 
@@ -32,50 +32,50 @@ Total: **1,458,756** lines of code across **13040** files in the top 5 languages
 
 ## Release
 
-- **Latest**: `@biomejs/biome@2.6.5` (2026-11-04)
+- **Latest**: `@biomejs/biome@2.6.6` (2026-11-06)
 - **Last commit**: 2026-11-06
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 26,052 · **Forks**: 1,320 · **Open issues**: 3,724 · **Contributors**: 786
+- **Stars**: 26,054 · **Forks**: 1,326 · **Open issues**: 3,729 · **Contributors**: 789
 
 ## Totals (cumulative)
 
-- **Releases**: 166 · **Merged PRs**: 6869 · **Open PRs**: 256 · **Closed issues**: 3435 · **Open issues**: 289 · **Commits**: 11623
+- **Releases**: 167 · **Merged PRs**: 6894 · **Open PRs**: 235 · **Closed issues**: 3440 · **Open issues**: 289 · **Commits**: 11647
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 5 | 388 | 159 | 81 | 61 | 491 |
-| last60d | 2026-09-07 | 8 | 726 | 182 | 157 | 91 | 872 |
-| 90d | 2026-08-08 | 13 | 941 | 194 | 235 | 102 | 1141 |
-| last180d | 2026-05-10 | 23 | 1440 | 227 | 402 | 152 | 1809 |
-| 360d | 2025-11-11 | 50 | 2636 | 249 | 930 | 221 | 3581 |
-| last720d | 2024-11-16 | 92 | 4314 | 256 | 2064 | 275 | 4668 |
+| 30d | 2026-10-08 | 6 | 393 | 137 | 82 | 62 | 518 |
+| last60d | 2026-09-08 | 9 | 744 | 161 | 159 | 92 | 899 |
+| 90d | 2026-08-09 | 14 | 964 | 173 | 238 | 103 | 1168 |
+| last180d | 2026-05-11 | 24 | 1453 | 206 | 407 | 152 | 1836 |
+| 360d | 2025-11-12 | 50 | 2655 | 228 | 934 | 221 | 3608 |
+| last720d | 2024-11-17 | 93 | 4339 | 235 | 2066 | 275 | 4692 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-darwin-arm64) | 80.6 MiB | `native/darwin/arm64` |
-| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-darwin-x64) | 84.0 MiB | `native/darwin/x64` |
-| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-arm64) | 83.6 MiB | `native/linux/arm64` |
-| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-arm64-musl) | 78.7 MiB | `native/linux/arm64/musl` |
-| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-x64) | 91.8 MiB | `other` |
-| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-linux-x64-musl) | 92.0 MiB | `other` |
-| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-win32-arm64.exe) | 93.5 MiB | `native/win/arm64` |
-| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.5/biome-win32-x64.exe) | 108.6 MiB | `native/win/x64` |
+| [biome-darwin-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-darwin-arm64) | 81.0 MiB | `native/darwin/arm64` |
+| [biome-darwin-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-darwin-x64) | 84.4 MiB | `native/darwin/x64` |
+| [biome-linux-arm64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-linux-arm64) | 84.1 MiB | `native/linux/arm64` |
+| [biome-linux-arm64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-linux-arm64-musl) | 79.1 MiB | `native/linux/arm64/musl` |
+| [biome-linux-x64](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-linux-x64) | 92.3 MiB | `other` |
+| [biome-linux-x64-musl](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-linux-x64-musl) | 92.5 MiB | `other` |
+| [biome-win32-arm64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-win32-arm64.exe) | 94.0 MiB | `native/win/arm64` |
+| [biome-win32-x64.exe](https://github.com/biomejs/biome/releases/download/@biomejs/biome@2.6.6/biome-win32-x64.exe) | 109.3 MiB | `native/win/x64` |
 
 ## Distribution status
 
-Reported by **17** distros on [repology.org](https://repology.org/project/biome). **4** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **19** distros on [repology.org](https://repology.org/project/biome). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `2.6.5` | ✅ latest |
-| Homebrew | `2.6.5` | ✅ latest |
+| Arch | `2.6.5` | ⚠️ outdated |
+| Homebrew | `2.6.5` | ⚠️ outdated |
 | Nix unstable | `2.6.4` | ⚠️ outdated |
 | Alpine edge | `2.3.13` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.5.0` | ⚠️ outdated |
@@ -89,4 +89,4 @@ Install metadata for biome lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:40:55Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:59:07Z._
