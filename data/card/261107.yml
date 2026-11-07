@@ -1,0 +1,197 @@
+about:
+  description: "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP."
+  license: Apache-2.0
+  homepage: https://biomejs.dev
+  head: ec0142b
+  archived: false
+  latestVersion: "@biomejs/biome@2.6.6"
+  latestRelease: "@biomejs/biome@2.6.6"
+  latestPrerelease: "@biomejs/js-api@v0.8.0-beta.3"
+  collectedAt: 2026-11-07T05:58:13Z
+timeline:
+  created: 2023-07-27
+  lastCommit: 2026-11-06
+  lastVersion: 2026-11-06
+  lastRelease: 2026-11-06
+  lastPrerelease: 2025-06-02
+popularity:
+  star: 26054
+  watcher: 80
+  fork: 1326
+  release: 167
+  contributor: 789
+  pullRequest: 7953
+  issue: 3729
+language:
+  Rust: 31836957
+  JavaScript: 2397077
+  TypeScript: 1490648
+  CSS: 561042
+  Vue: 461964
+  SCSS: 374807
+  HTML: 228968
+  Svelte: 222130
+  Astro: 105344
+  Just: 13899
+  Shell: 11103
+  MDX: 3157
+  RenderScript: 4
+totalBytes: 37707100
+recent:
+  last30d:
+    since: 2026-10-08
+    release: 6
+    mergedPR: 393
+    openPR: 137
+    closedIssue: 82
+    openIssue: 62
+    commit: 518
+  last60d:
+    since: 2026-09-08
+    release: 9
+    mergedPR: 744
+    openPR: 161
+    closedIssue: 159
+    openIssue: 92
+    commit: 899
+  last90d:
+    since: 2026-08-09
+    release: 14
+    mergedPR: 964
+    openPR: 173
+    closedIssue: 238
+    openIssue: 103
+    commit: 1168
+  last180d:
+    since: 2026-05-11
+    release: 24
+    mergedPR: 1453
+    openPR: 206
+    closedIssue: 407
+    openIssue: 152
+    commit: 1836
+  last360d:
+    since: 2025-11-12
+    release: 50
+    mergedPR: 2655
+    openPR: 228
+    closedIssue: 934
+    openIssue: 221
+    commit: 3608
+  last720d:
+    since: 2024-11-17
+    release: 93
+    mergedPR: 4339
+    openPR: 235
+    closedIssue: 2066
+    openIssue: 275
+    commit: 4692
+total:
+  release: 167
+  mergedPR: 6894
+  openPR: 235
+  closedIssue: 3440
+  openIssue: 289
+  commit: 11647
+---
+path: /home/runner/.x-repo/github.com/biomejs/biome
+collectedAt: 2026-11-07T05:58:57Z
+loc:
+  Rust:
+    code: 1124080
+    comments: 21396
+    blanks: 84238
+    files: 5338
+  TypeScript:
+    code: 117850
+    comments: 16408
+    blanks: 7441
+    files: 2065
+  Json:
+    code: 71351
+    comments: 0
+    blanks: 36
+    files: 1617
+  JavaScript:
+    code: 65377
+    comments: 6305
+    blanks: 10139
+    files: 3230
+  Css:
+    code: 19436
+    comments: 1170
+    blanks: 3854
+    files: 877
+  Html:
+    code: 16160
+    comments: 770
+    blanks: 1347
+    files: 663
+  Sass:
+    code: 13073
+    comments: 635
+    blanks: 2076
+    files: 769
+  Jsx:
+    code: 9492
+    comments: 950
+    blanks: 1482
+    files: 571
+  Svelte:
+    code: 6809
+    comments: 575
+    blanks: 985
+    files: 867
+  Yaml:
+    code: 5431
+    comments: 357
+    blanks: 1034
+    files: 590
+  Vue:
+    code: 4558
+    comments: 932
+    blanks: 554
+    files: 1325
+  Toml:
+    code: 4533
+    comments: 107
+    blanks: 560
+    files: 116
+  Graphql:
+    code: 3184
+    comments: 235
+    blanks: 1089
+    files: 206
+  Tsx:
+    code: 1762
+    comments: 213
+    blanks: 345
+    files: 149
+  Sh:
+    code: 345
+    comments: 68
+    blanks: 58
+    files: 11
+  Svg:
+    code: 45
+    comments: 3
+    blanks: 1
+    files: 10
+  Markdown:
+    code: 0
+    comments: 43855
+    blanks: 21348
+    files: 1434
+  Text:
+    code: 0
+    comments: 300
+    blanks: 1
+    files: 139
+total:
+  code: 1491061
+  comments: 169867
+  blanks: 157230
+  files: 19977
+---
+
+---
