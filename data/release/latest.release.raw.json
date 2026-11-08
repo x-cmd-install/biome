@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 84933216,
       "digest": "sha256:dec6124a5e3ea475e8625a7a85b5a2ec939c1077624f95b78cfc1cb96199fab1",
-      "download_count": 63,
+      "download_count": 219,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:39Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-darwin-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 88500984,
       "digest": "sha256:b92f74faad4521cff6bc45b54fc3806562d9aa136f8655222f1266e9819526e1",
-      "download_count": 23,
+      "download_count": 66,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:40Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-darwin-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 88150672,
       "digest": "sha256:bd0c5860a6220b68ceb82d7a00b7a4ed97fbaf3904eb41bcb897f9ec74af4148",
-      "download_count": 42,
+      "download_count": 123,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:39Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-linux-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 82976384,
       "digest": "sha256:53378861c96a525c86571f9cbe66489c3561e861c6becf5ea21ad114c70a80e7",
-      "download_count": 14,
+      "download_count": 33,
       "created_at": "2026-11-06T13:29:34Z",
       "updated_at": "2026-11-06T13:29:39Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-linux-arm64-musl"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 96796344,
       "digest": "sha256:69ca8e9ff548091b2bfbd178d6f73142b483a5257b07854de702c68fb7f8c06b",
-      "download_count": 1082,
+      "download_count": 2819,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:40Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-linux-x64"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 96969600,
       "digest": "sha256:1991e0812aa489da7577fa51a96ef8d52eebd3be21a958cb9fecacfeed16e51d",
-      "download_count": 39,
+      "download_count": 137,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:41Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-linux-x64-musl"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 98599936,
       "digest": "sha256:bafa8941638d2347d8fb9243ca5b7ee7d7e3e6bc96ca8c3de99a24be51274cae",
-      "download_count": 44,
+      "download_count": 67,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:40Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-win32-arm64.exe"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 114568192,
       "digest": "sha256:d3aac0b55e1b52ce586892b7c64de6bd2fc3774fe5b71129426af92c8a3c0571",
-      "download_count": 191,
+      "download_count": 408,
       "created_at": "2026-11-06T13:29:33Z",
       "updated_at": "2026-11-06T13:29:40Z",
       "browser_download_url": "https://github.com/biomejs/biome/releases/download/%40biomejs/biome%402.6.6/biome-win32-x64.exe"

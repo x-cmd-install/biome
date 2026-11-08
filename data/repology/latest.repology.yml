@@ -1,11 +1,20 @@
+- repo: scoop
+  subrepo: main
+  binname: biome
+  visiblename: biome
+  version: 2.6.6
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: parabola
   subrepo: extra
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.5
-  origversion: 2.6.5-1
-  status: outdated
+  version: 2.6.6
+  origversion: 2.6.6-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -43,9 +52,9 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.5
-  origversion: 2.6.5-1
-  status: outdated
+  version: 2.6.6
+  origversion: 2.6.6-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -59,9 +68,9 @@
 - repo: homebrew
   srcname: biome
   visiblename: biome
-  version: 2.6.5
+  version: 2.6.6
   origversion: null
-  status: outdated
+  status: newest
   summary: Toolchain of the web
 - repo: homebrew
   srcname: biome
@@ -168,7 +177,7 @@
 - repo: nix_unstable
   srcname: biome
   visiblename: biome
-  version: 2.6.4
+  version: 2.6.5
   origversion: null
   status: outdated
   summary: Toolchain of the web
@@ -195,15 +204,6 @@
     - Apache-2.0 AND MIT
   categories:
     - Productivity/Other
-- repo: scoop
-  subrepo: main
-  binname: biome
-  visiblename: biome
-  version: 2.6.6
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: tur
   srcname: biome
   binname: biome
