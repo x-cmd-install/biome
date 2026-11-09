@@ -1,23 +1,17 @@
-- repo: scoop
-  subrepo: main
-  binname: biome
+- repo: homebrew
+  srcname: biome
   visiblename: biome
   version: 2.6.6
   origversion: null
   status: newest
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: biome
+  summary: Toolchain of the web
+- repo: chocolatey
   binname: biome
-  visiblename: biome
-  version: 2.6.6
-  origversion: 2.6.6-1
-  status: newest
-  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
-  licenses:
-    - MIT
+  visiblename: Biome
+  version: 1.5.75
+  origversion: null
+  status: outdated
+  summary: A community distro of Chef Habitat Application Automation.
 - repo: alpine_edge
   subrepo: testing
   srcname: biome
@@ -58,20 +52,6 @@
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
-- repo: chocolatey
-  binname: biome
-  visiblename: Biome
-  version: 1.5.75
-  origversion: null
-  status: outdated
-  summary: A community distro of Chef Habitat Application Automation.
-- repo: homebrew
-  srcname: biome
-  visiblename: biome
-  version: 2.6.6
-  origversion: null
-  status: newest
-  summary: Toolchain of the web
 - repo: homebrew
   srcname: biome
   visiblename: biome
@@ -95,9 +75,9 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.4
-  origversion: 2.6.4-1
-  status: outdated
+  version: 2.6.6
+  origversion: 2.6.6-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -106,9 +86,9 @@
   srcname: biome
   binname: biome
   visiblename: biome
-  version: 2.6.5
-  origversion: 2.6.5-1
-  status: outdated
+  version: 2.6.6
+  origversion: 2.6.6-1
+  status: newest
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -204,6 +184,26 @@
     - Apache-2.0 AND MIT
   categories:
     - Productivity/Other
+- repo: parabola
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.6.6
+  origversion: 2.6.6-1
+  status: newest
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: biome
+  visiblename: biome
+  version: 2.6.6
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: tur
   srcname: biome
   binname: biome
