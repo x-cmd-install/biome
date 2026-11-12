@@ -1,3 +1,15 @@
+- repo: nix_stable_24_11
+  srcname: biome
+  visiblename: biome
+  version: 1.9.4
+  origversion: null
+  status: outdated
+  summary: Toolchain of the web
+  maintainers:
+    - figsoda@pm.me
+    - isabel@isabelroses.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: biome
@@ -19,7 +31,7 @@
   visiblename: biome
   version: 2.6.6
   origversion: 2.6.6-alt1
-  status: newest
+  status: outdated
   summary: A fast formatter, linter and analyzer for web projects
   maintainers:
     - amakeenk@altlinux.org
@@ -34,7 +46,7 @@
   visiblename: biome
   version: 2.6.6
   origversion: 2.6.6-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -50,7 +62,7 @@
   visiblename: biome
   version: 2.6.6
   origversion: null
-  status: newest
+  status: outdated
   summary: Toolchain of the web
 - repo: homebrew
   srcname: biome
@@ -77,7 +89,7 @@
   visiblename: biome
   version: 2.6.6
   origversion: 2.6.6-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -88,7 +100,7 @@
   visiblename: biome
   version: 2.6.6
   origversion: 2.6.6-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -101,18 +113,6 @@
   summary: Toolchain of the web
   maintainers:
     - figsoda@pm.me
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: biome
-  visiblename: biome
-  version: 1.9.4
-  origversion: null
-  status: outdated
-  summary: Toolchain of the web
-  maintainers:
-    - figsoda@pm.me
-    - isabel@isabelroses.com
   licenses:
     - MIT
 - repo: nix_stable_25_05
@@ -191,7 +191,7 @@
   visiblename: biome
   version: 2.6.6
   origversion: 2.6.6-1
-  status: newest
+  status: outdated
   summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
   licenses:
     - MIT
@@ -199,7 +199,7 @@
   subrepo: main
   binname: biome
   visiblename: biome
-  version: 2.6.6
+  version: 2.6.7
   origversion: null
   status: newest
   licenses:
