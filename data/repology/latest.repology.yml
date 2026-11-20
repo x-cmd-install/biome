@@ -1,7 +1,17 @@
 - repo: wikidata
   srcname: Q137943910
   visiblename: Biome
-  version: 1.1.2
+  version: 1.3.0
+  origversion: null
+  status: legacy
+  summary: JavaScript and TypeScript toolchain
+  licenses:
+    - Apache Software License 2.0
+    - MIT License
+- repo: wikidata
+  srcname: Q137943910
+  visiblename: Biome
+  version: 1.3.1
   origversion: null
   status: legacy
   summary: JavaScript and TypeScript toolchain
@@ -18,24 +28,16 @@
   licenses:
     - Apache Software License 2.0
     - MIT License
-- repo: homebrew
-  srcname: biome
-  visiblename: biome
-  version: HEAD
+- repo: wikidata
+  srcname: Q137943910
+  visiblename: Biome
+  version: 1.3.3
   origversion: null
-  status: rolling
-  summary: Toolchain of the web
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: biome
-  binname: biome
-  visiblename: biome
-  version: 2.5.15
-  origversion: 2.5.15-1
-  status: outdated
-  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  status: legacy
+  summary: JavaScript and TypeScript toolchain
   licenses:
-    - MIT
+    - Apache Software License 2.0
+    - MIT License
 - repo: alpine_edge
   subrepo: testing
   srcname: biome
@@ -49,34 +51,6 @@
     - matthias@ahouansou.cz
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: biome
-  binname: biome
-  visiblename: biome
-  version: 2.6.7
-  origversion: 2.6.7-1
-  status: outdated
-  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: biome
-  visiblename: biome
-  version: 2.6.8
-  origversion: null
-  status: newest
-  summary: Toolchain of the web
-- repo: wikidata
-  srcname: Q137943910
-  visiblename: Biome
-  version: 1.3.1
-  origversion: null
-  status: legacy
-  summary: JavaScript and TypeScript toolchain
-  licenses:
-    - Apache Software License 2.0
-    - MIT License
 - repo: alt_p11
   srcname: biome
   binnames:
@@ -127,6 +101,42 @@
   origversion: null
   status: outdated
   summary: A community distro of Chef Habitat Application Automation.
+- repo: homebrew
+  srcname: biome
+  visiblename: biome
+  version: 2.6.8
+  origversion: null
+  status: newest
+  summary: Toolchain of the web
+- repo: homebrew
+  srcname: biome
+  visiblename: biome
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Toolchain of the web
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.5.15
+  origversion: 2.5.15-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: biome
+  binname: biome
+  visiblename: biome
+  version: 2.6.7
+  origversion: 2.6.7-1
+  status: outdated
+  summary: Formatter, linter, and more for Javascript, Typescript, JSON, and CSS
+  licenses:
+    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: biome
@@ -203,9 +213,9 @@
 - repo: nix_unstable
   srcname: biome
   visiblename: biome
-  version: 2.6.5
+  version: 2.6.8
   origversion: null
-  status: outdated
+  status: newest
   summary: Toolchain of the web
   maintainers:
     - isabel@isabelroses.com
@@ -214,6 +224,16 @@
     - schahin@rouhanizadeh.de
   licenses:
     - MIT
+- repo: wikidata
+  srcname: Q137943910
+  visiblename: Biome
+  version: 1.7.3
+  origversion: null
+  status: legacy
+  summary: JavaScript and TypeScript toolchain
+  licenses:
+    - Apache Software License 2.0
+    - MIT License
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: biome
@@ -333,6 +353,16 @@
 - repo: wikidata
   srcname: Q137943910
   visiblename: Biome
+  version: 1.1.2
+  origversion: null
+  status: legacy
+  summary: JavaScript and TypeScript toolchain
+  licenses:
+    - Apache Software License 2.0
+    - MIT License
+- repo: wikidata
+  srcname: Q137943910
+  visiblename: Biome
   version: 1.2.0
   origversion: null
   status: legacy
@@ -354,26 +384,6 @@
   srcname: Q137943910
   visiblename: Biome
   version: 1.2.2
-  origversion: null
-  status: legacy
-  summary: JavaScript and TypeScript toolchain
-  licenses:
-    - Apache Software License 2.0
-    - MIT License
-- repo: wikidata
-  srcname: Q137943910
-  visiblename: Biome
-  version: 1.3.0
-  origversion: null
-  status: legacy
-  summary: JavaScript and TypeScript toolchain
-  licenses:
-    - Apache Software License 2.0
-    - MIT License
-- repo: wikidata
-  srcname: Q137943910
-  visiblename: Biome
-  version: 1.3.3
   origversion: null
   status: legacy
   summary: JavaScript and TypeScript toolchain
@@ -514,16 +524,6 @@
   srcname: Q137943910
   visiblename: Biome
   version: 1.7.2
-  origversion: null
-  status: legacy
-  summary: JavaScript and TypeScript toolchain
-  licenses:
-    - Apache Software License 2.0
-    - MIT License
-- repo: wikidata
-  srcname: Q137943910
-  visiblename: Biome
-  version: 1.7.3
   origversion: null
   status: legacy
   summary: JavaScript and TypeScript toolchain
