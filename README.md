@@ -14,15 +14,15 @@ x install biome
 
 ## Code insight
 
-Total: **1,521,158** lines of code across **13775** files in the top 5 languages.
+Total: **1,521,506** lines of code across **13771** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 1,167,498 | 22,327 | 87,033 | 5512 |
-| TypeScript | 122,461 | 17,456 | 8,166 | 2232 |
-| Json | 74,900 | 0 | 36 | 1728 |
-| JavaScript | 69,671 | 6,787 | 10,717 | 3407 |
-| Css | 19,683 | 1,185 | 3,872 | 896 |
+| Rust | 1,167,755 | 22,292 | 87,042 | 5512 |
+| TypeScript | 122,467 | 17,439 | 8,169 | 2228 |
+| Json | 74,885 | 0 | 36 | 1727 |
+| JavaScript | 69,677 | 6,788 | 10,718 | 3407 |
+| Css | 19,711 | 1,189 | 3,878 | 897 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **1,521,158** lines of code across **13775** files in the top 5 languages
 ## Release
 
 - **Latest**: `@biomejs/biome@2.6.8` (2026-11-15)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 26,133 · **Forks**: 1,455 · **Open issues**: 3,785 · **Contributors**: 797
+- **Stars**: 26,159 · **Forks**: 1,459 · **Open issues**: 3,793 · **Contributors**: 797
 
 ## Totals (cumulative)
 
-- **Releases**: 169 · **Merged PRs**: 7058 · **Open PRs**: 272 · **Closed issues**: 3487 · **Open issues**: 298 · **Commits**: 11808
+- **Releases**: 169 · **Merged PRs**: 7062 · **Open PRs**: 280 · **Closed issues**: 3488 · **Open issues**: 305 · **Commits**: 11812
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 8 | 396 | 167 | 91 | 66 | 490 |
-| last60d | 2026-09-20 | 9 | 785 | 202 | 166 | 103 | 920 |
-| 90d | 2026-08-21 | 14 | 1044 | 212 | 235 | 113 | 1244 |
-| last180d | 2026-05-23 | 26 | 1558 | 245 | 431 | 162 | 1939 |
-| 360d | 2025-11-24 | 50 | 2747 | 264 | 928 | 227 | 3682 |
-| last720d | 2024-11-29 | 93 | 4458 | 272 | 2081 | 284 | 4763 |
+| 30d | 2026-10-21 | 8 | 371 | 175 | 86 | 72 | 494 |
+| last60d | 2026-09-21 | 9 | 779 | 209 | 164 | 110 | 924 |
+| 90d | 2026-08-22 | 13 | 1043 | 220 | 233 | 120 | 1248 |
+| last180d | 2026-05-24 | 26 | 1559 | 253 | 431 | 170 | 1943 |
+| 360d | 2025-11-25 | 50 | 2742 | 272 | 925 | 234 | 3686 |
+| last720d | 2024-11-30 | 93 | 4461 | 280 | 2080 | 291 | 4762 |
 
 ## Release assets
 
@@ -70,13 +70,13 @@ Total: **1,521,158** lines of code across **13775** files in the top 5 languages
 
 ## Distribution status
 
-Reported by **135** distros on [repology.org](https://repology.org/project/biome). **4** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
+Reported by **135** distros on [repology.org](https://repology.org/project/biome). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.6.8` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `2.6.5` | ⚠️ outdated |
+| Homebrew | `2.6.8` | ✅ latest |
+| Nix unstable | `2.6.8` | ✅ latest |
 | Alpine edge | `2.3.13` | ⚠️ outdated |
 | openSUSE Tumbleweed | `2.5.0` | ⚠️ outdated |
 
@@ -89,4 +89,4 @@ Install metadata for biome lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:24:30Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:19:08Z._
